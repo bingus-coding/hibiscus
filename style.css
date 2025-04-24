@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  text-align: center;
+  max-height: 100vh;
+}
+.heading img {
+  width: 400px;
+  height: 700px;
+}
+@media (min-width: 376px) {
+  .heading img {
+    width: 400px;
+    height: 700px;
+  }
+}
